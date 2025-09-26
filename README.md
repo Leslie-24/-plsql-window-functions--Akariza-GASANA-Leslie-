@@ -46,7 +46,7 @@ This solution provides actionable insights to **shorten audit cycles** and impro
 ---
 
   ##  Entity Relationship Diagram (ERD) 
-  ![Entity Relationship Diagram](images/erd.png)
+  ![Entity Relationship Diagram](images/erg.png)
   ##  SQL Queries and Results  
 
 ### 1️1 Ranking Departments by Revenue  
